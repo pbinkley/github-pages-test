@@ -2,9 +2,8 @@
 layout: default
 title: Test
 permalink: /test/
+d3: true
 ---
-
-<script src="https://d3js.org/d3.v3.min.js"></script>
 
 <div id="metadata"></div>
 <svg id="chart"></svg>
